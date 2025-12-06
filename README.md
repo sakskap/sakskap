@@ -1,5 +1,7 @@
 # Hi, I'm Saksham 
 
+![AI imagery]gemini-pro-1764995346870.png
+
 I build AI-powered products at the intersection of **mobile**, **data**, and **accessibility** — and use them in real problems, not toy demos.
 
 Right now my work sits across:
