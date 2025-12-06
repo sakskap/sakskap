@@ -1,6 +1,6 @@
 # Hi, I'm Saksham 
 
-<img src="sakskap/hero.png" alt="Vision agent demo" width="250" />
+<img src="hero.png" alt="Vision agent demo" width="250" />
 
 I build AI-powered products at the intersection of **mobile**, **data**, and **accessibility**.
 
