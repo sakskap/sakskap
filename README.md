@@ -1,11 +1,11 @@
 # Hi, I'm Saksham 
 
 
-I build AI-powered products at the intersection of **mobile**, **data**, and **accessibility** — and use them in real problems, not toy demos.
+I build AI-powered products at the intersection of **mobile**, **data**, and **accessibility**.
 
 Right now my work sits across:
-- Android accessibility services
-- Conversational AI   
+- AI in accessibility services
+- Conversational AI for EdTech 
 - Big Data research (crowd moderation, ranking, reliability)  
 
 ---
